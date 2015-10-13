@@ -1,0 +1,24 @@
+				---------------------------------------
+						OSS C/C++ SDK
+				----------------------------------------
+-------------------------------------
+support os windows/linux 
+
+support protocol http/https
+
+oss_config.h 
+/*enable https*/
+#define OSS_HTTP_SSL 
+-------------------------------------
+third party libraries:
+
+1. openssl
+OpenSSL 1.0.1e-fips 11 Feb 2013
+2. libxml2
+libxml2-2.7.6
+
+
+--------------------
+  LICENSING:
+--------------------
+Apache v2 License
